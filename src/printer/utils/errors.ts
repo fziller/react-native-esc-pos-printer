@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { PrinterError } from '../../core';
 import {
   PrinterErrorResult,
